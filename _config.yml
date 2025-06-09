@@ -307,12 +307,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
-  - jekyll-seo-tag
-
-title:       "Pengyu Wang — PhD Student, Operations Management"
-description: "Academic homepage of Pengyu Wang at the University of Washington Foster School of Business."
-url:         "https://mithrandiraaron.github.io"   # or your custom domain
-
 
 # Mimic GitHub Pages with --safe
 whitelist:
