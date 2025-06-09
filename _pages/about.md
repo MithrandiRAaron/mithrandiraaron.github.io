@@ -8,3 +8,6 @@ redirect_from:
 ---
 
 Hello! World.
+
+# Pengyu Wang
+PhD Student, Operations Management
