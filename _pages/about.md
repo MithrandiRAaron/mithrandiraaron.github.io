@@ -10,4 +10,4 @@ redirect_from:
 Hello! World.
 
 # Pengyu Wang
-PhD Student, Operations Management
+PhD Student, Operations Management, Foster School of Business, University of Washington
