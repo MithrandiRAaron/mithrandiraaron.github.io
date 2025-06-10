@@ -1,6 +1,9 @@
 ---
 title: " Piano Player"
-excerpt: "I play piano at my leisure time"
+excerpt: >
+  I play piano at my leisure time~ 
+  <img src="/images/Piano.jpg" alt="Playing piano"
+       width="250" height="300" />
 collection: portfolio
 ---
 
