@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching at UW-Seattle"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate/Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Washington, ISOM"
+date: 2025-06-09
+location: "Seattle, USA"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Autumn 2023, SCM 530A: 4.6; SCM 513: 4.5.
+* Winter 2024, BUS AN 516A: 4.2; BUS AN 516B: 4.1.
+* Spring 2024, OPMGT 520A: 4.3
+* Winter 2025, EMBA 533A: 4.1
+* Spring 2025, QMETH 505A: NA; SCM 520A: NA
