@@ -13,8 +13,8 @@ Education
 ======
 * Ph.D in Operations Management, University of Washington-Seattle, 2027 (expected)
 * Ph.D in Economics, University of Washington-Seattle, 2022 (transferred-out)
-* M.S. in Economics, University of Wisconsin-Madison, 2020
-* B.S. in Honor Economics, University of Western Ontario, 2018
+* M.Sc. in Economics, University of Wisconsin-Madison, 2020
+* B.A. in Honors Economics, University of Western Ontario, 2018
 
 Work experience
 ======
