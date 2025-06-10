@@ -8,7 +8,7 @@ date: 2025-6-9
 venue: 'Submit to Manufacturing & Service Operations Management'
 slidesurl: # 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Pengyu Wang, Yuankun Li, Masha Shunko, Yong-Pin Zhou. (2025). &quot;Can Less be More? A Hybrid Solution to the Print-on-Demand Platforms.&quot; <i>-</i>. 1(3).'
+citation: 'Pengyu Wang, Yuankun Li, Masha Shunko, Yong-Pin Zhou. (2025). &quot;Can Less be More? A Hybrid Solution to the Print-on-Demand Platforms.&quot; <i>-</i>. -.'
 ---
 
 Problem definition: Print-on-demand (POD) platforms have emerged as popular online marketplaces 
