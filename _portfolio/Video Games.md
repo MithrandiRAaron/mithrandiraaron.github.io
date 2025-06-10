@@ -17,3 +17,5 @@ collection: portfolio
 <img src="/images/FF14.jpg"            width="300" />
 <br/>
 <img src="/images/Elden Ring.webp"     width="300" />
+<br/>
+<img src="/images/Balder's Gate 3.jpg"     width="300" />
