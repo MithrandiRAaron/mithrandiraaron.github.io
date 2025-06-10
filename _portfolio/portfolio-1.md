@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "The Lord of the Rings"
+excerpt: "I am a great fan of the Middle-Earth!!! <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I am a great fan of The Lord of The Rings series and The Hobbits. One of my dream is to become a legendary writer like J.R.R.Tolkein. I am also a great fan for ENYA!!! May It Be, an evening star would shine on you and bless for all your future journeys. 
+
+If you are also a great fan of legends and medieval ages, such as, sword and magic, knight and dragons, please LET ME KNOW!!!
