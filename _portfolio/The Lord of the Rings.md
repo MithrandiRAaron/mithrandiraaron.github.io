@@ -2,8 +2,8 @@
 title: "The Lord of the Rings"
 excerpt: >
   I am a great fan of Middle-Earth!!!  
-  <img src="/images/middle-earth-map.avif" alt="Middle-Earth map"
-       width="500" height="300" />
+  <br/><img src="/images/middle-earth-map.avif" alt="Middle-Earth map"
+       width="560" height="420" />
 
 collection: portfolio
 ---
