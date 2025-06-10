@@ -10,10 +10,10 @@ I am also fascinated in sandbox strategic games: Heart of Iron series, Crusader 
 
 
 <br/>
-<img src="/images/Wuthering Waves.jpg" width="200" height="200" />
+<img src="/images/Wuthering Waves.jpg" width="300" />
 <br/>
-<img src="/images/FF7.jpg"             width="200" height="200" />
+<img src="/images/FF7.jpg"             width="300" />
 <br/>
-<img src="/images/FF14.jpg"            width="200" height="200" />
+<img src="/images/FF14.jpg"            width="300" />
 <br/>
-<img src="/images/Elden Ring.webp"     width="200" height="200" />
+<img src="/images/Elden Ring.webp"     width="300" />
