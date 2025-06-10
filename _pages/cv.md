@@ -23,7 +23,7 @@ Conference Talks
 * INFORMS Annual Meeting 2023, Pheonix, AZ
   
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
