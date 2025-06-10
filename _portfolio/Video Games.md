@@ -9,8 +9,11 @@ I also play 3A games on PC: Elden Ring, Black Myth Wukong, Final Fantasy VII Rem
 I am also fascinated in sandbox strategic games: Heart of Iron series, Crusader King III, Victoria, Mount & Blade II, Total War series, etc. 
 
 
-<br/><img src='/images/Wuthering Waves.jpg'>
-<br/><img src='/images/FF7.jpg'>
-<br/><img src='/images/FF14.jpg'>
-<br/><img src='/images/Assassin's Creed.jpeg'>
-<br/><img src='/images/Elden Ring.webp'>
+<br/>
+<img src="/images/Wuthering Waves.jpg" width="200" height="200" />
+<br/>
+<img src="/images/FF7.jpg"             width="200" height="200" />
+<br/>
+<img src="/images/FF14.jpg"            width="200" height="200" />
+<br/>
+<img src="/images/Elden Ring.webp"     width="200" height="200" />
