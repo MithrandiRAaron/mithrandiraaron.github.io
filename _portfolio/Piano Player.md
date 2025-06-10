@@ -2,7 +2,7 @@
 title: "Piano Player"
 excerpt: >
   I play piano at my leisure time~
-  <br/><img src="/images/Piano.jpg" alt="Playing Piano" width="620" height="500" />
+  <br/><img src="/images/Piano.jpg" alt="Playing Piano" width="620" height="480" />
 collection: portfolio
 ---
 
