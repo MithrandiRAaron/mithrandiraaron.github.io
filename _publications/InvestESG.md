@@ -12,7 +12,7 @@ date: 2025-06-09
 venue: "Work in progress"
 slidesurl: ""
 paperurl: ""
-citation: "Pengyu Wang, Shi Chen. (2025). “A Dynamic Multi-Agent Framework for Collective ESG Investment: Mitigation, Greenwashing, and Strategic Trade-offs.” <i>-</i>. 1(3)."
+citation: "Pengyu Wang, Shi Chen. (2025). “A Dynamic Multi-Agent Framework for Collective ESG Investment: Mitigation, Greenwashing, and Strategic Trade-offs.” <i>-</i>. -."
 ---
 
 Abstract:
