@@ -12,5 +12,5 @@ I am a great fan of The Lord of The Rings series and The Hobbits. One of my drea
 
 If you are also a great fan of legends and medieval ages, such as, sword and magic, knight and dragons, please LET ME KNOW!!!
 <br/><img src='/images/Lord_Rings_Return_King.jpg'>
-<br/><img src='/images/LOTR_1.jpeg'>
-<br/><img src='/images/LOTR_2.jpeg'>
+<br/><img src='/images/LOTR_1.jpg'>
+<br/><img src='/images/LOTR_2.jpg'>
