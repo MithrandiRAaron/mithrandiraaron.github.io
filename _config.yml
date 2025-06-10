@@ -28,7 +28,7 @@ author:
   bio              : "All models are wrong, but some are useful. OM PhD student 3rd year, Economist"
   location         : "Seattle, WA"
   employer         : "University of Washington"
-  uri              : https://mithrandiraaron.github.io
+  uri              : # https://mithrandiraaron.github.io
   email            : "pwang425@uw.edu" 
 
   # Academic websites
