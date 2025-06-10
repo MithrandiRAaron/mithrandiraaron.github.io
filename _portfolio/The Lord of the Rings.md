@@ -14,11 +14,11 @@ If you are also a great fan of legends and medieval ages, such as, sword and mag
 <p style="display:flex; gap:1rem; flex-wrap:wrap;">
   <img src="/images/Lord_Rings_Return_King.jpg"
        alt="Return of the King"
-       style="width:250px; height:420px; object-fit:cover;" />
+       style="width:250px; height:360px; object-fit:cover;" />
   <img src="/images/LOTR_1.jpg"
        alt="LOTR 1"
-       style="width:250px; height:420px; object-fit:cover;" />
+       style="width:250px; height:360px; object-fit:cover;" />
   <img src="/images/LOTR_2.jpg"
        alt="LOTR 2"
-       style="width:250px; height:420px; object-fit:cover;" />
+       style="width:250px; height:360px; object-fit:cover;" />
 </p>
