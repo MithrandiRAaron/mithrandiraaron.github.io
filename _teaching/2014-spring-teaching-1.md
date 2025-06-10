@@ -1,7 +1,7 @@
 ---
 title: "Teaching at UW-Seattle"
 collection: teaching
-type: "Undergraduate/Graduate course"
+type: "Graduate course TA"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Washington, ISOM"
 date: 2025-06-09
