@@ -9,7 +9,7 @@ excerpt: >
   externalities, thus are coupled together. We investigate the time evolution of the
   companies' decisions and state trajectories.
 date: 2025-06-09
-venue: "Work in progress"
+venue: "Work in progress, Scheduled for talk at INFORMS 2025, Atlanta, GA."
 slidesurl: ""
 paperurl: ""
 citation: "Pengyu Wang, Shi Chen. (2025). “A Dynamic Multi-Agent Framework for Collective ESG Investment: Mitigation, Greenwashing, and Strategic Trade-offs.” <i>-</i>. -."
