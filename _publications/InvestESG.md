@@ -2,13 +2,13 @@
 title: "A Dynamic Multi-Agent Framework for Collective ESG Investment: Mitigation, Greenwashing, and Strategic Trade-offs"
 collection: publications
 category: manuscripts
-permalink: # /publication/2015-10-01-paper-title-number-3
+permalink: # 
 excerpt: 'This paper developes a multi-agent framework to investigate the collective ESG decision making for companies, where their investment decisions exert 
 significant economic externalities, thus are coupled together. We investigate the time evolution of the companies' decisions and states trajectories.'
 date: 2025-6-9
 venue: 'Work in progress'
-slidesurl: # 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: # 'http://academicpages.github.io/files/paper3.pdf'
+slidesurl: # 
+paperurl: # 
 citation: 'Pengyu Wang, Shi Chen. (2025). &quot;A Dynamic Multi-Agent Framework for Collective ESG Investment: Mitigation, Greenwashing, and Strategic Trade-offs.&quot; <i>-</i>. 1(3).'
 ---
 
