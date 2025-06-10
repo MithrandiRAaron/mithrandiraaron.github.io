@@ -1,6 +1,6 @@
 ---
 title: "The Lord of the Rings"
-excerpt: "I am a great fan of the Middle-Earth!!! <br/><img src='/images/500x300.png'>"
+excerpt: "I am a great fan of the Middle-Earth!!! <br/><img src='/images/middle-earth-map.avif'>"
 collection: portfolio
 ---
 
