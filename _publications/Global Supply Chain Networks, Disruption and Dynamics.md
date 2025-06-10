@@ -4,13 +4,11 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-06-09-global-supply-chain-networks-dynamics-disruption
 excerpt: >
-  Supply chain disruption has become a hot topic in recent years and
-  has led to worldwide concerns. Major challenges include geopolitical
-  disturbances (e.g., trade wars, supply chain malfunctions, production
-  interruptions) and revolutionary technological breakthroughs (e.g.,
-  electric vehicles, smartphones, GPUs). In this paper, we perform an
-  ex post analysis to explore the outcomes of a supply chain disruptive
-  event.
+  This paper develops a firm-level supply chain network to investigate
+the ex post impacts of disruptive events—such as natural disasters, revolutionary
+technological breakthroughs, or geopolitical conflicts—on global supply
+chains.
+
 date: 2025-06-09
 venue: "Work in progress"
 slidesurl: ""
@@ -21,25 +19,24 @@ citation: >
   <i>-</i>. -.
 ---
 
-**Research Objective:**  
-In this paper, we investigate what happens when a significant supply chain
-disruption occurs. We conduct an **ex post** analysis to trace the impacts
-across all tiers of a global network.
-
-**Model Framework:**  
-We assume a set of heterogeneous firms making forward-looking decisions
-to enter or exit specific supply chain tiers, supported by an efficient
-financial market. Products are differentiated but substitutable downstream,
-so each firm holds a local monopoly, yet can sell to downstream buyers
-at discounted terms.
-
-**Macro Scope Analysis:**  
-- We examine how prices and output quantities at each tier adjust over time.  
-- We assess the implications for end-market customers: do they face higher
-  prices or reduced quality?
-
-**Micro Scope Analysis:**  
-- We study the financial performance of a representative incumbent firm
-  following a disruptive shock.  
-- We measure changes in profitability, leverage, and investment behavior.
+This paper develops a firm-level supply chain network to investigate
+the ex post impacts of disruptive events—such as natural disasters, revolutionary
+technological breakthroughs, or geopolitical conflicts—on global supply
+chains. Our model incorporates several key assumptions: (1) firms are heterogeneous
+and forward-looking, making strategic decisions about entering or exiting
+the supply chain network; (2) intermediate goods are differentiated and substitutable
+in downstream markets; and (3) switching supply chain partners entails
+significant costs for firms. Under these assumptions, we formulate a dynamic
+general equilibrium model to characterize the equilibrium of the supply chain
+network and evaluate its performance from two perspectives. At the macro level,
+we explore how the overall structure and resilience of the supply chain evolve
+following a disruptive event and identify conditions leading to potential supply
+chain breakdowns. We also analyze the adjustments in equilibrium prices and
+quantities across supply chain tiers and assess the consequent impacts on end
+market consumers. At the micro level, we specifically examine how disruptive
+events influence the market performance of prominent incumbent firms within
+the supply chain network. Our results demonstrate that, given the presence of
+switching costs and the facilitation of an efficient financial market, the global
+supply chain network can exhibit substantial stability and resilience in response
+to disruptive shocks.
 
