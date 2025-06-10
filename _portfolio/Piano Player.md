@@ -6,7 +6,7 @@ collection: portfolio
 ---
 
 <br/>
-<img src="/images/Piano.jpg" alt="Playing piano" width="620" height="420" />
+<img src="/images/Piano.jpg" alt="Playing piano" width="450" height="360" />
 
 I started playing piano when I was eight or nine. Ever since, I’ve played from time to time as I’ve grown older. I’m not an excellent player, but I play enough to entertain myself.
 
