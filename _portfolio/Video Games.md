@@ -1,6 +1,6 @@
 ---
 title: " Game Zealots"
-excerpt: "I play a lot games range from mobile to PC <br/><img src='/images/FF16.jpeg'>"
+excerpt: "I play a lot games range from mobile to PC <br/><img src='/images/FF16.jpg'>"
 collection: portfolio
 ---
 
