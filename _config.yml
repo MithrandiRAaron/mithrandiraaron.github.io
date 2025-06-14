@@ -22,7 +22,7 @@ repository               : "mithrandiraaron.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-v2.png"
   name             : "Pengyu (Aaron) Wang"
   pronouns         : # example: "she/her"  
   bio              : "All models are wrong, but some are useful. OM PhD student 3rd year, Economist"
