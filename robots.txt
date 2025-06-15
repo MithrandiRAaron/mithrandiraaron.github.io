@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mithrandiraaron.github.io/sitemap.xml
