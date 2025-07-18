@@ -16,8 +16,9 @@ Education
 * M.Sc. in Economics, University of Wisconsin-Madison, 2020
 * B.A. in Honors Economics, University of Western Ontario, 2018
 
-Conference Talks
+Conference and Talks
 ======
+* SICS Annual Meeting 2025, Berkeley, CA
 * INFORMS Annual Meeting 2024, Seattle, WA
 * INFORMS MOSM 2024 Annual Meeting 2024, Twin-City, MN
 * INFORMS Annual Meeting 2023, Pheonix, AZ
