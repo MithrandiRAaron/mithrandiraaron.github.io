@@ -9,7 +9,7 @@ excerpt: >
   We provide a hybrid production framework with incentive-compatible implementation
   strategies to demonstrate its effectiveness.
 date: 2025-06-09
-venue: "Submit to Manufacturing & Service Operations Management"
+venue: "Working paper, Reject & Resubmit at M&SOM, Nov.25"
 slidesurl: ""
 paperurl: ""
 citation: >
