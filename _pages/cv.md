@@ -16,11 +16,17 @@ Education
 * M.Sc. in Economics, University of Wisconsin-Madison, 2020
 * B.A. in Honors Economics, University of Western Ontario, 2018
 
-Conferences and Talks
+Conferences and Invited Talks
 ======
+* Decision Science Institute 2026, San Francisco, CA (scheduled)
+* INFORMS Annual Meeting 2026, San Francisco, CA (scheduled)
+* MOSM 2026 Annual Meeting, Boston, MA (scheduled)
+* POMS Annual Meeting 2026, Reno, NV
+* POMS-HK 2026, Shenzhen, China
+* INFORMS Annual Meeting 2025, Atlanta, GA
 * SICS Annual Meeting 2025, Berkeley, CA
 * INFORMS Annual Meeting 2024, Seattle, WA
-* INFORMS MOSM 2024 Annual Meeting 2024, Twin-City, MN
+* MOSM 2024 Annual Meeting, Twin-City, MN
 * INFORMS Annual Meeting 2023, Pheonix, AZ
   
 
