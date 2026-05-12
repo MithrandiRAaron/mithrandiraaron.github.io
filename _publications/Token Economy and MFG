@@ -2,18 +2,18 @@
 title: "A Two-Layer Hybrid Graph Mean-Field Game for Distributed LLM Inference Demand"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-09-dynamic-multi-agent-framework
-excerpt: The rapid adoption of agentic AI is turning large language model (LLM) inference into a large-scale operational system rather than a purely software product.
+permalink: /publication/two-layer-hybrid-graph-mean-field-game-llm-inference
+excerpt: >
+  The rapid adoption of agentic AI is turning large language model inference into a
+  large-scale operational system rather than a purely software product.
+date: 2025-06-09
 venue: "Work in progress"
 slidesurl: ""
 paperurl: ""
-citation: "Pengyu Wang, Shi Chen (2026). “ A Two-Layer Hybrid Graph Mean-Field Game for Distributed LLM Inference Demand” <i>-</i>. -."
+citation: >
+  Pengyu Wang and Shi Chen. (2026).
+  "A Two-Layer Hybrid Graph Mean-Field Game for Distributed LLM Inference Demand."
+  <i>Work in progress</i>.
 ---
 
-ABSTRACT: The rapid adoption of agentic AI is turning large language model (LLM) inference into a large-scale opera-
-tional system rather than a purely software product. A massive population of devices—personal terminals,
-enterprise clients, and autonomous agents—continuously generates inference requests for search, coding,
-monitoring, summarization, and workflow automation. In practice, these requests are offloaded to cloud or
-edge inference centers and billed in tokens. Major providers currently use posted token-based pricing sched-
-ules, typically charging separately for input, output, and sometimes cached tokens, while system capacity is
-managed through quotas and regional rate limits rather than explicit local congestion pricing 
+The rapid adoption of agentic AI is turning large language model inference into a large-scale operational system rather than a purely software product. A massive population of devices, including personal terminals, enterprise clients, and autonomous agents, continuously generates inference requests for search, coding, monitoring, summarization, and workflow automation. In practice, these requests are offloaded to cloud or edge inference centers and billed in tokens. Major providers currently use posted token-based pricing schedules, typically charging separately for input, output, and sometimes cached tokens, while system capacity is managed through quotas and regional rate limits rather than explicit local congestion pricing.
