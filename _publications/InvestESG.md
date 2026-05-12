@@ -2,14 +2,14 @@
 title: "A Dynamic Multi-Agent Framework for Collective ESG Investment: Mitigation, Greenwashing, and Strategic Trade-offs"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-06-09-dynamic-multi-agent-framework
+permalink: /publication/2026-04-26-dynamic-multi-agent-framework
 excerpt: >
   This paper studies how firms make collective ESG (Environmental, Social, and Governance) investment decisions when their actions are strategically interdependent and interact with an ESG-aware financial market. Firms’ ESG investments, ranging from genuine mitigation to greenwashing, generate externalities, such as climate risk exposure and sustainability violations, that propagate across firms within the same industry or supply chain and influence capital market outcomes. 
-date: 2025-06-09
+date: 2026-04-26
 venue: "Working paper, Reject & Resubmit at M&SOM Apr.26"
 slidesurl: ""
 paperurl: ""
-citation: "Pengyu Wang, Shi Chen, Xiaoxuan Hou, Yixin Zhang. (2025). “A Dynamic Multi-Agent Framework for Collective ESG Investment: Mitigation, Greenwashing, and Strategic Trade-offs.” <i>-</i>. -."
+citation: "Pengyu Wang, Shi Chen, Xiaoxuan Hou, Yixin Zhang. (2026). “A Dynamic Multi-Agent Framework for Collective ESG Investment: Mitigation, Greenwashing, and Strategic Trade-offs.” <i>-</i>. -."
 ---
 
 ABSTRACT: This paper studies how firms make collective ESG (Environmental, Social, and Governance) investment decisions when their actions are strategically interdependent and interact with an ESG-aware financial market. Firms’ ESG investments, ranging from genuine mitigation to greenwashing, generate externalities, such as climate risk exposure and sustainability violations, that propagate across firms within the same industry or supply chain and influence capital market outcomes. Methodology/results: We develop a dynamic stochastic multi-agent framework in which heterogeneous firms optimally allocate resources between mitigation and greenwashing over time, while financial investors endogenously adjust capital allocation based on firms’ ESG scores and risk–return profiles. The model captures three fundamental trade-offs: (i) the substitution between genuine mitigation and reputational greenwashing, (ii) the intertemporal tension between short-term operational costs and long-term ESG benefits, and (iii) the free-rider problem inherent in collective risk mitigation. Our analysis identifies two opposing equilibrium forces. An accelerator (size) effect arises when a firm’s own scale or financial inflows strengthen incentives for genuine mitigation by increasing exposure to and capacity to hedge catastrophic risks. In contrast, a free-rider effect emerges when larger or more capable peer firms amplify incentives to rely on others’ mitigation efforts, discouraging individual investment. Managerial implications: The results clarify when ESG investments are more likely to translate into real risk reduction rather than symbolic greenwashing. Larger firms or firms receiving greater financial investment are more inclined toward genuine mitigation, while increases in the size or number of peer firms can undermine such incentives through free-riding. These insights help managers and investors better anticipate how firm size, industry composition, and capital flows jointly shape ESG strategies and sustainability outcomes in interconnected supply chains.
