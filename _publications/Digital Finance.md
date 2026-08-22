@@ -1,5 +1,5 @@
 ---
-title: "Financial Technology Spillover and Investment Behavior: Financial Literacy, Risk-Seeking, and Portfolio Choice"
+title: "Platform-Empowered Digital Finance and Traditional Investing: Spillover Effects through Financial Literacy and Risk Tolerance"
 collection: publications
 category: manuscripts
 permalink: /publication/financial-technology-spillover-investment-behavior
@@ -8,7 +8,7 @@ excerpt: >
   services, yet it remains unclear whether these services substitute for traditional
   financial channels or instead encourage broader market participation.
 date: 2026-05-09
-venue: "Working paper, under review"
+venue: "Working paper, Under Review at M&SOM"
 slidesurl: ""
 paperurl: ""
 citation: >
