@@ -1,5 +1,5 @@
 ---
-title: "A Dynamic Multi-Agent Framework for Collective ESG Investment: Mitigation, Greenwashing, and Strategic Trade-offs"
+title: "Collective ESG Investment: Mitigation, Greenwashing, and Dynamic Strategic Interactions"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-04-26-dynamic-multi-agent-framework
