@@ -12,7 +12,7 @@ venue: "Working paper, Under Review at M&SOM"
 slidesurl: ""
 paperurl: ""
 citation: >
-  Pengyu Wang, Jinwei Zhang, and Mingwen Yang. (2026).
+  Pengyu Wang, Jinwei Zhang, Shi Chen and Mingwen Yang. (2026).
   "Financial Technology Spillover and Investment Behavior: Financial Literacy,
   Risk-Seeking, and Portfolio Choice." <i>Working paper</i>.
 ---
