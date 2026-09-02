@@ -14,4 +14,4 @@ At Madison, I served as a research assistant to [Prof. Marzena Rostek](https://u
 
 At UW, I am fortunate to be advised by [Prof. Shi Chen](https://foster.uw.edu/faculty-research/directory/shi-chen/){:target="_blank"}, [Prof. Yong-Pin Zhou](https://faculty.washington.edu/yongpin/){:target="_blank"}, and [Prof. Masha Shunko](https://foster.uw.edu/faculty-research/directory/masha-shunko/){:target="_blank"}. My research is rooted in sustainable operations, platform operations and AI infrastructure operations. Methodology-wise, I specifically interested in stochastic optimization, game theory, dynamic programming, causal inferences and mean-field approaches. I am passionate about addressing complex industry and supply-chain problems with cutting-edge techniques. 
 
-I am on the market 2026!!
+I am on the market 2026!! (Here is my CV: [Curriculum Vitae](/files/Pengyu_Wang_CV.pdf))
