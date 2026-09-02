@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [Curriculum Vitae](/files/Pengyu_Wang_CV.pdf)
+
 Education
 ======
 * Ph.D in Operations Management, University of Washington-Seattle, 2027 (expected)
