@@ -9,8 +9,6 @@ excerpt: >
   company’s strategic behavior in exploring and exploiting potential business opportunities.
 date: 2025-06-09
 venue: "Work in progress"
-slidesurl: ""
-paperurl: ""
 citation: >
   Pengyu Wang, Shi Chen. (2025).
   “Who Are the Winners? Business Opportunity Management—A Scope of Business Relationships.”
