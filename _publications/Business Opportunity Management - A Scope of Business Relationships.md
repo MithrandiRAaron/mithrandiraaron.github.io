@@ -1,7 +1,7 @@
 ---
 title: "Who Are the Winners? Business Opportunity Management—A Scope of Business Relationships"
 collection: publications
-category: manuscripts
+category: work_in_progress
 permalink: /publication/2025-06-09-who-are-the-winners-business-opportunity-management-scope-of-business-relationships
 excerpt: >
   We leverage a rich dataset from a prominent firm in the semiconductor industry to examine how
