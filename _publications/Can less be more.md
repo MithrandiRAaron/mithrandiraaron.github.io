@@ -11,11 +11,8 @@ excerpt: >
 date: 2025-06-09
 venue: "Working paper, Reject & Resubmit at M&SOM, Nov.25"
 slidesurl: ""
-paperurl: ""
-citation: >
-  Pengyu Wang, Yuankun Li, Masha Shunko, Yong-Pin Zhou. (2025).
-  “Can Less be More? A Hybrid Solution to the Print-on-Demand Platforms.”
-  <i>-</i>. -.
+paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7515178"
+citation: "Li, Yuankun and Wang, Pengyu and Zhou, Yong-Pin and Shunko, Masha, Can Less be More? A Hybrid Solution to the Print-on-Demand Platforms (November 12, 2025). Available at SSRN: https://ssrn.com/abstract=7515178 or http://dx.doi.org/10.2139/ssrn.7515178"
 ---
 
 **Problem definition:**  
