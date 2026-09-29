@@ -1,7 +1,7 @@
 ---
 title: "Global Supply Chain Networks, Dynamics and Disruption"
 collection: publications
-category: manuscripts
+category: work_in_progress
 permalink: /publication/2025-06-09-global-supply-chain-networks-dynamics-disruption
 excerpt: >
   This paper develops a firm-level supply chain network to investigate
