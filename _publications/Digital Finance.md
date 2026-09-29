@@ -9,7 +9,6 @@ excerpt: >
   financial channels or instead encourage broader market participation.
 date: 2026-05-09
 venue: "Working paper, Under Review at M&SOM"
-slidesurl: ""
 paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7514758"
 citation: >
   Pengyu Wang, Jinwei Zhang, Shi Chen and Mingwen Yang. (2026).
