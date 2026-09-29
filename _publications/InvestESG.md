@@ -1,7 +1,7 @@
 ---
 title: "Collective ESG Investment: Mitigation, Greenwashing, and Dynamic Strategic Interactions"
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/2026-04-26-dynamic-multi-agent-framework
 excerpt: >
   This paper studies how firms make collective ESG (Environmental, Social, and Governance) investment decisions when their actions are strategically interdependent and interact with an ESG-aware financial market. Firms’ ESG investments, ranging from genuine mitigation to greenwashing, generate externalities, such as climate risk exposure and sustainability violations, that propagate across firms within the same industry or supply chain and influence capital market outcomes. 
