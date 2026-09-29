@@ -1,7 +1,7 @@
 ---
 title: "Platform-Empowered Digital Finance and Traditional Investing: Spillover Effects through Financial Literacy and Risk Tolerance"
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/financial-technology-spillover-investment-behavior
 excerpt: >
   Technological advances and digitization have reshaped how investors access financial
