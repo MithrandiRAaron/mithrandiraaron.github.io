@@ -10,8 +10,6 @@ excerpt: >
   chains.
 date: 2025-06-09
 venue: "Work in progress"
-slidesurl: ""
-paperurl: ""
 citation: >
   Pengyu Wang, Shi Chen. (2025).
   “Global Supply Chain Networks, Dynamics and Disruption.”
