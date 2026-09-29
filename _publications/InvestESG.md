@@ -7,7 +7,6 @@ excerpt: >
   This paper studies how firms make collective ESG (Environmental, Social, and Governance) investment decisions when their actions are strategically interdependent and interact with an ESG-aware financial market. Firms’ ESG investments, ranging from genuine mitigation to greenwashing, generate externalities, such as climate risk exposure and sustainability violations, that propagate across firms within the same industry or supply chain and influence capital market outcomes. 
 date: 2026-04-26
 venue: "Working paper (Job Market Paper), Reject & Resubmit at M&SOM Apr.26"
-slidesurl: ""
 paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7508598"
 citation: "Wang, Pengyu and Chen, Shi and Hou, Xiaoxuan, Collective ESG Investment: Mitigation, Greenwashing, and Dynamic Strategic Interactions (August 14, 2026)."
 ---
