@@ -10,7 +10,6 @@ excerpt: >
   strategies to demonstrate its effectiveness.
 date: 2025-06-09
 venue: "Working paper, Reject & Resubmit at M&SOM, Nov.25"
-slidesurl: ""
 paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7515178"
 citation: "Li, Yuankun and Wang, Pengyu and Zhou, Yong-Pin and Shunko, Masha, Can Less be More? A Hybrid Solution to the Print-on-Demand Platforms (November 12, 2025)."
 ---
