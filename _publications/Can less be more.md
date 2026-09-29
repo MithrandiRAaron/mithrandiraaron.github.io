@@ -1,7 +1,7 @@
 ---
 title: "Can Less be More? A Hybrid Solution to the Print-on-Demand Platforms"
 collection: publications
-category: manuscripts
+category: working_papers
 permalink: /publication/2025-06-09-can-less-be-more-hybrid-solution-print-on-demand
 excerpt: >
   This paper optimizes the production strategy in the print-on-demand industry,
