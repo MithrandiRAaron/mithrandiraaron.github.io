@@ -5,7 +5,7 @@ category: working_papers
 permalink: /publication/marketplace-governance-and-production-strategy
 excerpt: "We study how creator portfolios are formed in digital marketplaces and the resulting production challenges for platforms. The separation between assortment creation and production decisions motivates marketplace governance through mechanisms that reshape creator portfolios and improve platform performance."
 date: 2026-10-22
-venue: "Working Paper"
+venue: "Working Paper, In preparation of submission."
 citation: '<strong>Wang, P.</strong>, Zhou, Y., and Shunko, M. (2026). "Marketplace Governance and Production Strategy: Decentralized Assortment and Hybrid Fulfillment in Creator Economy." Manuscript in preparation.'
 ---
 
